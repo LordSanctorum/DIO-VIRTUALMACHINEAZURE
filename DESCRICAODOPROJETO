@@ -1,0 +1,69 @@
+# **Projeto: Implementação de Máquina Virtual no Microsoft Azure**  
+
+## **📌 Descrição do Projeto**  
+
+Este repositório foi criado como parte do desafio proposto pela **Digital Innovation One (DIO)**, com o objetivo de documentar o processo de criação e configuração de uma **máquina virtual (VM)** na plataforma **Microsoft Azure**.  
+
+O projeto visa consolidar os conhecimentos adquiridos nas aulas, aplicando conceitos de **computação em nuvem, provisionamento de recursos, segurança e gerenciamento de infraestrutura**, além de servir como um **guia de referência** para futuras implementações.  
+
+---
+
+## **🎯 Objetivos**  
+
+✔ **Aprender na prática** como implantar uma VM no Azure  
+✔ **Documentar** cada etapa do processo de forma clara e didática  
+✔ **Compartilhar dicas e melhores práticas** para otimizar configurações  
+✔ **Criar um portfólio técnico** no GitHub para demonstrar habilidades em cloud computing  
+
+---
+
+## **📂 Estrutura do Repositório**  
+
+- **📄 README.md** → Visão geral do projeto e instruções  
+- **📝 Resumos e Anotações** → Conceitos essenciais sobre Azure e VMs  
+- **🛠 Passo a Passo** → Tutorial detalhado da implementação  
+- **💡 Dicas e Boas Práticas** → Recomendações para evitar erros comuns  
+- **🖼️ /images** → Capturas de tela do processo (opcional)  
+
+---
+
+## **🛠 Tecnologias e Ferramentas Utilizadas**  
+
+☁ **Microsoft Azure** → Plataforma de nuvem para deploy da VM  
+📊 **Azure Portal** → Interface gráfica para gerenciamento de recursos  
+🔒 **Network Security Groups (NSG)** → Configuração de regras de segurança  
+🖥️ **Conexão RDP/SSH** → Acesso remoto à máquina virtual  
+📂 **GitHub** → Hospedagem e versionamento da documentação  
+
+---
+
+## **📌 Como Utilizar Este Projeto?**  
+
+🔹 **Para estudos**: Use como material de apoio para aprender sobre Azure  
+🔹 **Como referência**: Consulte o passo a passo para criar sua própria VM  
+🔹 **Para portfólio**: Demonstre experiência prática em cloud computing  
+
+---
+
+## **🔗 Links Úteis**  
+
+- [Documentação Oficial do Azure](https://learn.microsoft.com/pt-br/azure/)  
+- [Tutoriais Microsoft Learn](https://learn.microsoft.com/pt-br/training/)  
+- [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)  
+
+---
+
+## **🚀 Próximas Etapas**  
+
+➡ Explorar **automação com Azure CLI/PowerShell**  
+➡ Implementar **balanceamento de carga e alta disponibilidade**  
+➡ Integrar com outros serviços Azure (**Storage, Kubernetes, Databases**)  
+
+---
+
+**📌 Este projeto está em constante evolução!**  
+Contribuições e sugestões são bem-vindas. ⭐ **Deixe sua estrela no repositório!** ⭐  
+
+--- 
+
+**🔹 Entrega do Desafio DIO concluída com sucesso!** 🎉
